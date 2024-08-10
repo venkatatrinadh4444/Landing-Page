@@ -1,0 +1,116 @@
+.head {
+    background-color:aquamarine;
+    height:40px;
+    position: sticky;
+    top: 0px;
+
+}
+.btn {
+    float:right;
+    margin-top:10px;
+
+}
+.btn a {
+    margin-right:10px;
+    text-decoration:none;
+    font-weight:600;
+    color:grey;
+}
+.btn a:hover {
+    background-color: blue;
+    color: white;
+    transition: 0.5s;
+    font-size: large;
+    margin-top: -5px;
+    border-radius: 20px;
+    padding: 3px 5px;
+}
+.head span {
+    font-size:25px;
+    font-weight:700;
+    margin-left:10px;
+    color:blueviolet;
+}
+.h1p {
+    margin-top: 20px;
+    float:right;
+    width:50%;
+}
+.h2p {
+    float:left;
+    width:40%;
+    margin-top: 20px;
+
+}
+.h2p a {
+    margin-left: 20px;
+
+}
+.h2p a button {
+    border-radius: 20px;
+    padding: 3px 10px;
+}
+.h2p a button:hover {
+    background-color: blue;
+    color: white;
+    transition: 0.5s;
+    font-size: large;
+    margin-top:-3px;
+    border-radius: 20px;
+    padding: 3px 5px;
+}
+
+.cr {
+    width:150px;
+    float:left;
+    margin-right:40px;
+    margin-bottom:20px;
+    box-shadow:5px 5px 10px black;
+    border-radius: 10px;
+
+
+}
+.content h2 {
+    color:#25b82f;
+    text-align:center;
+    font-size:30px;
+    clear: both;
+
+}
+.cr h4 {
+    text-align:center;
+    color:blue;
+    margin: 0px;
+
+}
+.signup {
+    width:50%;
+    float:left;
+    clear: both;
+
+}
+#form {
+    margin-left: 25px;
+    line-height: 20px;
+    font-size: 20px;
+
+}
+.final {
+    width:50%;
+    float:right;
+    
+}
+.signup h2 {
+    margin-left:35px;
+    color:tomato;
+
+
+}
+.final h2 {
+    color:tomato;
+}
+footer {
+    clear: both;
+    background-color: grey;
+    text-align: center;
+}
